@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PGNCRL92
-- 👀 I’m interested in learning as much as possible about AI and it's implication for future professions
+- 👀 I’m interested in learning as much as possible about AI and it's uses
 - 🌱 I work in the FP&A function of a software multinational company
 - 💞️ I’m looking to collaborate on projects and ideas related to the finance world
 <!---
